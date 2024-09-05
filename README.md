@@ -44,7 +44,7 @@ O relatório dinâmico com uso de parâmetros permite aos usuários alterar vari
 1. Clone este repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/Relatorio_Dinamico-com-Uso-de-Parametros.git
+    git clone https://github.com/seu-usuario/Dio-Relatorio_Dinamico-com-Uso-de-Parametros.git
     ```
 
 2. Abra o arquivo do projeto no Power BI Desktop.
